@@ -1,6 +1,5 @@
 <!-- **knackepizza/knackepizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
-![Knäckepizza](https://github.com/knackepizza/knackepizza/blob/master/images/cover-new.png "Knäckepizza")
-### Hej! I'm Knäckepizza 👋
+![Zoty United](https://github.com/zoty-united/zoty-united/blob/master/images/cover-new.png "Knäckepizza")
 **NICK NETTLETON**
 
 As a graduate of Kennesaw State University with a Bachelor of Science in Computer Science, I've done a TON of cool stuff in the work force (7 years and counting!). I'm a Fullstack Web Developer with experience in PHP, Shopify Liquid, React (and Native), SQL, Linux/CentOS & Ubuntu, WordPress, creating/manipulating REST API's, requests, and so much more! I've taught people senior and junior to me, and have solved countless problems for multiple credible and trusted companies!
@@ -29,5 +28,3 @@ A few things that I do:
 - REST API & SOAP XML Requests
 - WordPress Development
 - AWS (Linux/CentOS/Ubuntu)
-
-*Disclaimer: Not the actual brand Knäckepizza.*
